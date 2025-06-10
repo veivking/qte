@@ -1,0 +1,6 @@
+- name: Laravel Bjyblog Ansible
+  hosts: production
+  tasks:
+    - name: Import the laravel role
+      ansible.builtin.import_role:
+        name: laravel
