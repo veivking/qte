@@ -27,7 +27,7 @@
         "emojify.js": "^1.1.0",
         "fluidbox": "^2.0.5",
         "font-awesome": "^4.7.0",
-        "jquery": "~3.4.1",
+        "jquery": "~3.7.1",
         "jssocials": "github:tabalinas/jssocials",
         "lazyload": "^2.0.0-rc.2",
         "pace": "github:hubspot/pace#v1.0.2",
